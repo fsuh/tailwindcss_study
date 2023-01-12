@@ -5,4 +5,8 @@
 ## Project
 This is a static website project I built in my process of learning tailwindcss. 
 
-It is simple code base of HTML and CSS (tailwind) only
+It is simple code base of HTML and CSS (tailwind) only and deployed on render.com
+
+https://acme-rockets-w327.onrender.com
+
+
